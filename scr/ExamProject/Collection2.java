@@ -11,7 +11,7 @@ public class Collection2 {
     }
 
     public static void slovarr() {
-        List<String> arr = new ArrayList<>(List.of("Dima", "Antoni", "Aleksey", "Vasya", "Leonid"));
+        List<String> arr = new ArrayList<>(List.of("Sergey", "Artem", "Alex", "Svetlana", "Andre"));
 
         System.out.println(arr.size());
 
